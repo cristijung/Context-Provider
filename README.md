@@ -1,3 +1,7 @@
+#Projeto com nomes de componentes em português 
+## Este Projeto faz parte de conteúdo desenvolvido para aula.
+_______________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
